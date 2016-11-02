@@ -12,7 +12,7 @@ public class DemoApplication extends SpringBootServletInitializer {
 	
 	@RequestMapping("/")
 	public String home(){
-		return "Hello World - From Deepak";
+		return "Hello World - From DM";
 	}
 
 	public static void main(String[] args) {
